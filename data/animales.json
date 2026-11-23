@@ -1,0 +1,8 @@
+[
+    {"id": 1, "nombre": "Toby", "especie": "perro", "edad": 3},
+    {"id": 2, "nombre": "Misi", "especie": "gato", "edad": 5},
+    {"id": 3, "nombre": "Rocky", "especie": "perro", "edad": 8},
+    {"id": 4, "nombre": "Pelusa", "especie": "conejo", "edad": 1},
+    {"id": 5, "nombre": "Luna", "especie": "gato", "edad": 2},
+    {"id": 6, "nombre": "Canela", "especie": "perro", "edad": 11}
+]
